@@ -1,0 +1,22 @@
+{
+  "name": "peaktools",
+  "version": "1.0.0",
+  "description": "Peak curvature tools(experimental)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhorRudych/PeakTools.git"
+  },
+  "keywords": [
+    "Peak"
+  ],
+  "author": "Ihor Rudych",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IhorRudych/PeakTools/issues"
+  },
+  "homepage": "https://github.com/IhorRudych/PeakTools#readme"
+}
