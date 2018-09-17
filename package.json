@@ -1,6 +1,6 @@
 {
   "name": "peaktools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Peak curvature tools(experimental)",
   "main": "index.js",
   "scripts": {
