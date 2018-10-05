@@ -1,12 +1,4 @@
-/**********************************************************************
- *
- * Copyright 2018, Axcend Technologies
- * All rights reserved.
- * No portion of this information may be copied, published,
- * printed, shared, or disseminated in any form without the
- * written permission of Axcend Technologies.
- *
- *********************************************************************/
+//historical copy
 
 var regression = require('regression');
 var csv        = require('csv');
